@@ -6,6 +6,7 @@ LEFT = 180
 RIGHT = 0
 from turtle import Turtle
 
+# this are new coment
 class Snake:
     def __init__(self):
         self.segments = []

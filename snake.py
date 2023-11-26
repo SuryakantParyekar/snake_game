@@ -7,6 +7,7 @@ RIGHT = 0
 from turtle import Turtle
 
 # this are new coment
+# This is a new feature
 class Snake:
     def __init__(self):
         self.segments = []
